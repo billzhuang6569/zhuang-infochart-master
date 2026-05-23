@@ -1,5 +1,7 @@
 # Zhuang Infochart Master
 
+English | [中文](README_ZH.md)
+
 Zhuang Infochart Master is an Agent Skill for making information graphics with GPT Image 2.
 
 Give it a rough request - a paragraph, a few numbers, a messy workflow, or a concept you want to explain. The skill helps the agent choose the right content type, pick a visual style, write a strong image prompt, show you a Chinese explanation if needed, and then generate or edit the image.
@@ -398,4 +400,3 @@ For image edits:
 ```bash
 python3 scripts/render_image.py --mode edit --prompt-file runs/example/final_prompt_en.txt --image-url https://example.com/source.png --run-dir runs/example --channel fal
 ```
-
