@@ -32,7 +32,7 @@ All examples below were generated during the batch test. Open each prompt if you
 
 Clean SaaS report page for KPIs, growth, conversion, budget, and progress.
 
-![WebUI Clean Modern](https://pictshare.whatonearth.work/900x506/qttxaq.png)
+![WebUI Clean Modern](https://i.ibb.co/Vc7d7nym/data-webui.png)
 
 <details>
 <summary>Original image prompt</summary>
@@ -54,7 +54,7 @@ no complex dashboard, no app sidebar, no navigation bar, no filters, no dense ta
 
 2.5D data landscape for comparisons, distributions, and editorial data stories.
 
-![Isometric Creative](https://pictshare.whatonearth.work/900x506/ie7s0c.png)
+![Isometric Creative](https://i.ibb.co/9HXR2hqZ/data-isometric.png)
 
 <details>
 <summary>Original image prompt</summary>
@@ -90,7 +90,7 @@ Negative constraints: no legends, no axes, no explanatory paragraphs, no extra a
 
 Monochrome report style for surveys, progress, status, and operational metrics.
 
-![Ink Minimal](https://pictshare.whatonearth.work/900x506/3ke7hx.png)
+![Ink Minimal](https://i.ibb.co/FLKkRzfb/data-ink.png)
 
 <details>
 <summary>Original image prompt</summary>
@@ -132,7 +132,7 @@ No colorful SaaS dashboard, no blue-violet accent system, no rainbow palette, no
 
 Modern SaaS process cards for workflows, SOPs, onboarding, and product docs.
 
-![WebUI Clean Modern](https://pictshare.whatonearth.work/900x506/zjacdj.png)
+![WebUI Clean Modern](https://i.ibb.co/8LB1Vwgd/flow-webui.png)
 
 <details>
 <summary>Original image prompt</summary>
@@ -166,7 +166,7 @@ Negative constraints: no complex dashboard, no app sidebar, no navigation bar, n
 
 Friendly hand-drawn steps for lightweight guides, courses, and article illustrations.
 
-![Notion Handdrawn](https://pictshare.whatonearth.work/900x506/j02me5.png)
+![Notion Handdrawn](https://i.ibb.co/yFhwmH8F/flow-notion.png)
 
 <details>
 <summary>Original image prompt</summary>
@@ -194,7 +194,7 @@ Negative constraints: no colorful infographic, no corporate dashboard, no backen
 
 Black-and-white SOP sheet for review flows, safety checks, and operational chains.
 
-![Ink Minimal](https://pictshare.whatonearth.work/900x506/v951ra.png)
+![Ink Minimal](https://i.ibb.co/j9ZvLhKj/flow-ink.png)
 
 <details>
 <summary>Original image prompt</summary>
@@ -232,7 +232,7 @@ Strong negative constraints: no colorful SaaS dashboard, no blue-violet accent s
 
 2.5D journey scene for service delivery and customer-facing process stories.
 
-![Isometric Creative](https://pictshare.whatonearth.work/900x506/916j8a.png)
+![Isometric Creative](https://i.ibb.co/PZDvRG3b/flow-isometric.png)
 
 <details>
 <summary>Original image prompt</summary>
@@ -265,7 +265,7 @@ Negative constraints: no dashboard UI, no flat generic flowchart, no BPMN diagra
 
 Gradient UI cards for product concepts, AI terms, feature modules, and modern knowledge cards.
 
-![WebUI Cards](https://pictshare.whatonearth.work/900x506/ytivxe.png)
+![WebUI Cards](https://i.ibb.co/qF3gWr92/concept-cards.png)
 
 <details>
 <summary>Original image prompt</summary>
@@ -293,7 +293,7 @@ Negative constraints: no complex dashboard, no real webpage screenshot, no app s
 
 Research-note card grid for frameworks, technical concepts, and course explainers.
 
-![Ink Minimal](https://pictshare.whatonearth.work/900x506/qvjah8.png)
+![Ink Minimal](https://i.ibb.co/Gv0mj9mL/concept-ink.png)
 
 <details>
 <summary>Original image prompt</summary>
